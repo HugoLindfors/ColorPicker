@@ -1,0 +1,13 @@
+* {
+  text-align: center;
+}
+
+body {
+  background-color: #222;
+  color: #fff;
+}
+
+.btn, .btn:hover {
+  border: 1px solid #fff;
+  color: #fff;
+}
